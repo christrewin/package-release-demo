@@ -1,6 +1,6 @@
 {
   "name": "@snoutstudio/meetings",
-  "version": "0.0.0-development",
+  "version": "0.0.0",
   "license": "Apache-2.0",
   "main": "dist/index.js",
   "module": "dist",
