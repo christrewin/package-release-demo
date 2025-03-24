@@ -1,6 +1,6 @@
 {
   "name": "@snoutstudio/greetings",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "Apache-2.0",
   "main": "dist/index.js",
   "module": "dist",
@@ -11,13 +11,13 @@
   },
   "author": "Chris Trewin",
   "description": "Snout Studio - Greetings Lib",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/christrewin/package-release-demo.git"
-    },
-    "bugs": {
-        "url": "https://github.com/christrewin/package-release-demo/issues"
-    },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christrewin/package-release-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/christrewin/package-release-demo/issues"
+  },
   "devDependencies": {
     "typescript": "^5.8.2"
   },

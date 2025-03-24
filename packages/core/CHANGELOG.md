@@ -1,5 +1,11 @@
 # @snoutstudio/core
 
+## 0.0.2
+
+### Patch Changes
+
+- a1e72ef: corrected license attribution
+
 ## 0.0.1
 
 ### Patch Changes
