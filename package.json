@@ -7,7 +7,7 @@
   ],
   "scripts": {
     "build": "npm run build --workspaces",
-    "ci:publish": "pnpm publish -r --access public --publish-branch=changesets"
+    "ci:publish": "pnpm publish -r --access public --publish-branch=main"
   },
   "author": "Chris Trewin",
   "license": "Apache-2.0",
