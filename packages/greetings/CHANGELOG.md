@@ -1,5 +1,11 @@
 # @snoutstudio/greetings
 
+## 0.1.0
+
+### Minor Changes
+
+- adfa79b: Added function xinchao to greetings lib
+
 ## 0.0.1
 
 ### Patch Changes
