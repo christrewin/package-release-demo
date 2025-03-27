@@ -3,5 +3,5 @@ export const greetings = (name: string): string => {
 };
 
 export const xinchao = (name: string): string => {
-  return `xinchao, ${name}, from Snout Studio Greetings!`;
+  return `xinchao, ${name}, from Snout Studio Greetings !!`;
 };
