@@ -1,5 +1,11 @@
 # @snoutstudio/greetings
 
+## 0.1.1
+
+### Patch Changes
+
+- 8cc380f: Updated greetings xinchao message
+
 ## 0.1.0
 
 ### Minor Changes
