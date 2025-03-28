@@ -1,5 +1,11 @@
 # @snoutstudio/meetings
 
+## 0.1.0
+
+### Minor Changes
+
+- ad0b16f: Empty minor
+
 ## 0.0.1
 
 ### Patch Changes
